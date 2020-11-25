@@ -1,6 +1,6 @@
 {
     "title": "区块链技术指南",
-    "author": "yeasy",
+    "author": "zzugo",
     "plugins": [
         "-autocover",
         "-github-buttons",
